@@ -1,0 +1,8 @@
+---------- Resumen de botones principales ----------
+Total de combinaciones: 168
+Arriba: 33
+Abajo: 36
+Izquierda: 35
+Derecha: 30
+Neutral: 34
+-----------------------------------------------------
